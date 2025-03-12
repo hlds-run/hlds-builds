@@ -28,6 +28,11 @@ All HLDS builds are available in the [Releases Section](https://github.com/hun1e
     Download: https://github.com/hun1er/hlds-builds/releases/download/9909/hlds-9909-windows.zip<br>
     Checksum: https://github.com/hun1er/hlds-builds/releases/download/9909/hlds-9909-windows.sha256
 
+- **Build 10210 (Oct 7 2024)**
+  - **Windows**<br>
+    Download: https://github.com/hun1er/hlds-builds/releases/download/10210/hlds-10210-windows.zip<br>
+    Checksum: https://github.com/hun1er/hlds-builds/releases/download/10210/hlds-10210-windows.sha256
+
 - **Build 10211 (Oct 8 2024)**
   - **Linux**<br>
     Download: https://github.com/hun1er/hlds-builds/releases/download/10211/hlds-10211-linux.tar.gz<br>
